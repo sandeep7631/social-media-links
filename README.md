@@ -1,7 +1,7 @@
 # Social Media Links - Personal Portfolio
 
 ## Live Demo
-Live website for the social media links project [here](https://sandeep7631.github.io/social-media-links/).
+Live website for the [social media links](https://sandeep7631.github.io/social-media-links/) project.
  
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/sandeep7631/social-media-links)
