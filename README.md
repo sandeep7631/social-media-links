@@ -1,5 +1,9 @@
 # Social Media Links - Personal Portfolio
 
+## Live Demo
+Live website for the social media links project [here](https://sandeep7631.github.io/social-media-links/).
+ 
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/sandeep7631/social-media-links)
 
 This project is a simple, responsive personal portfolio webpage that showcases your social media presence. It allows users to access your GitHub, LinkedIn, Frontend Mentor, and other profiles with one click.
